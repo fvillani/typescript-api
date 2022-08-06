@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "typeRoots": ["./node_modules/@types"],
+    "types": ["node"],
+    "incremental": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "include": ["**/*.ts", "*.ts"],
+  "exclude": ["node_modules"],
+}
