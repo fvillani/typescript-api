@@ -7,7 +7,7 @@ Aplicação de estudo em TypeScript, Api em TypeScript, obtenção de dados via 
 - MongoDB
 - Mongoose
 - Express
-- POO
+- Programação Orientada Objetos
 - Interfaces
 - Generics
 - Decorators
