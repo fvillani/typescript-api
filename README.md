@@ -1,7 +1,7 @@
 # typescript-api
 Aplicação de estudo em TypeScript, Api em TypeScript, obtenção de dados via Api Rest, trabalhando com MongoDb.
 
-## Tecnologias
+## Experiências
 - Javascript
 - TypeScript
 - MongoDB
